@@ -4,7 +4,7 @@
 **Student:** Vishwapathi Aravindh  
 **Course:** Backend Development Fundamentals (Year II Term II)  
 **Institution:** Aurora  
-**Faculty:** Joel Prashanth D  
+**Faculty:** Mr Yugandhar Gurjalwar
 
 ---
 
