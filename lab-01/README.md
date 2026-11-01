@@ -5,7 +5,7 @@
 **Registration Number:** MCA-2024-001  
 **Section:** MCA - Section A  
 **Course:** Backend Development Fundamentals (Year II Term II · Aurora)  
-**Faculty:** Joel Prashanth D  
+**Faculty:**Mr Yugandhar Gurjalwar
 
 ---
 
