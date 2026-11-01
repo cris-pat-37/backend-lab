@@ -1,5 +1,6 @@
 # Backend Development Fundamentals — Lab Repository
 
+**Repository:** [https://github.com/cris-pat-37/backend-lab](https://github.com/cris-pat-37/backend-lab)  
 **Student:** Vishwapathi Aravindh  
 **Course:** Backend Development Fundamentals (Year II Term II)  
 **Institution:** Aurora  
@@ -29,3 +30,4 @@
 - `node_modules/` excluded via `.gitignore`.
 - Explicit and correct HTTP status codes for every endpoint.
 - Parameterized queries enforced for all database interactions.
+

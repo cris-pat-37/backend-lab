@@ -1,5 +1,6 @@
 # Lab 1: Node.js and Express server
 
+**GitHub Repository:** [https://github.com/cris-pat-37/backend-lab](https://github.com/cris-pat-37/backend-lab)  
 **Name:** Vishwapathi Aravindh  
 **Registration Number:** MCA-2024-001  
 **Section:** MCA - Section A  
@@ -160,3 +161,4 @@ Rewritten with Express, providing clean declarative routing, JSON responses, req
 ### 3. What do `request` (`req`) and `response` (`res`) represent?
 - **`request` (`req`):** An object representing the incoming HTTP request sent by the client. It contains details such as the HTTP method (`req.method`), URL/path (`req.originalUrl` or `req.path`), headers (`req.headers`), URL query parameters (`req.query`), route parameters (`req.params`), and body payload (`req.body`).
 - **`response` (`res`):** An object used by the server to construct and dispatch the outgoing HTTP response back to the client. It provides methods to set the HTTP status code (`res.status()`), set headers (`res.set()`), and transmit data (`res.send()`, `res.json()`, `res.end()`).
+
